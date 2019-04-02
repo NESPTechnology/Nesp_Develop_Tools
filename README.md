@@ -10,3 +10,4 @@
 - 前端框架
 - Gtk
 - Electron
+- Linux
